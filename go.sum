@@ -1,4 +1,4 @@
-changkun.de/x/dummydep v0.0.2 h1:04M03wC2B1TwzuYGyXhmWWJiSOPQuyPdvAnoonepzuU=
-changkun.de/x/dummydep v0.0.2/go.mod h1:uocLSXVecjKXo7FnqXVsbQ2KKKp1HDxpTI3l8Vbfv9o=
+changkun.de/x/dummydep v0.0.3 h1:R3fYt747z1lxdC8vXeWWee5AMcbu8nHPQjMEnOobjMk=
+changkun.de/x/dummydep v0.0.3/go.mod h1:uocLSXVecjKXo7FnqXVsbQ2KKKp1HDxpTI3l8Vbfv9o=
 golang.org/x/sync v0.1.0 h1:wsuoTGHzEhffawBOhz5CYhcrV4IdKZbEyZjBMuTp12o=
 golang.org/x/sync v0.1.0/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
